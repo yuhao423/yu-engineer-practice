@@ -1,0 +1,12 @@
+{
+  "name": "cli-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "create-yuyuyu": "create-yuyuyu"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
