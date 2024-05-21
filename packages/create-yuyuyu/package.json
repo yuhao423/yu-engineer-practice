@@ -6,10 +6,14 @@
     "create-yuyuyu": "index.js",
     "create-app": "index.js"
   },
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
 }

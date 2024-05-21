@@ -25,7 +25,7 @@
    ```
 
 
-6. 在`cli-demo`中`pnpm add create-yuyuyu -w` 来引入`create-yuyuyu的模块`，是`-w` 而不是其他。z最后在`package.json`文件中加入`scripts`：
+6. 在`cli-demo`中`pnpm add create-yuyuyu -w` 来引入`create-yuyuyu的模块`，是`-w` 而不是其他。最后在`package.json`文件中加入`scripts`：
 
    ```JSON
    scripts:{
@@ -33,5 +33,10 @@
    }
    ```
 
-   
+### 2. 解析参数行
 
+#### TODO:
+
+- 引入 `typescript`；
+- 引入 打包工具：`esbuild` 或者 `tsup`；
+- 引入`eslint`和 `github action`工作流
